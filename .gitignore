@@ -1,0 +1,12 @@
+ll_env
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+### Django ###
+*.log
+*.pot
+*.pyc
+local_settings.py
+*/__pycache__/
